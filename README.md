@@ -1,3 +1,3 @@
 # Midnight-Dash
 
-Project in under development and get live on or before 7th May, 2025
+Project in **under development** and both the **codebase** & **live link** will available on or before 4th May, 2025
